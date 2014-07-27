@@ -1,11 +1,10 @@
 Accelerometer_Data
+==================
 Version 1.0
-==================
-
 Corbin Thornbrough
-==================
 
 Tidy Version of Samsung Accelerometer Data
+==========================================
 This includes an R script (run_analysis.R) that sorts the data into a tidier dataset as well as an output file (tidy_data.txt).
 
 
